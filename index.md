@@ -48,5 +48,4 @@ https://gitee.com/bearpi/bearpi-hm_micro_small
 
 
 
-git remote add origin https://github.com/canbus/hi3816_ohm_mini.git
 git push -u origin main
