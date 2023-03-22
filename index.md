@@ -47,10 +47,6 @@ https://gitee.com/bearpi/bearpi-hm_micro_small
 
 
 
-echo "# hi3816_ohm_mini" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
+
 git remote add origin https://github.com/canbus/hi3816_ohm_mini.git
 git push -u origin main
