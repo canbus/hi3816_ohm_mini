@@ -73,8 +73,9 @@
 -   [BearPi-HM_Nano 案例开发](../app/README.md)
 
 
-## 四、BearPi-HM_Nano 案例开发
-
+## 四、BearPi-HM_Nano 案例开发(https://gitee.com/bearpi/bearpi-hm_nano/blob/master/applications/BearPi/BearPi-HM_Nano/sample/README.md)
+    案例代码列表 (https://gitee.com/bearpi/bearpi-hm_nano/blob/master/applications/BearPi/BearPi-HM_Nano/sample/README.md)
+    PPT(https://gitee.com/bearpi/bearpi-hm_nano/tree/master/applications/BearPi/BearPi-HM_Nano/docs/board/%E8%AF%BE%E7%A8%8B%E9%85%8D%E5%A5%97PPT)
 BearPi-HM Nano提供多个案例，案例以A、B、C、D进行不同类别进行分级，方便初学者由浅入深逐步学习。您拿到工程后经过简单的编程和下载即可看到实验现象。下面依次对A/B/C/D类进行介绍：
 
 * `A1 - A99`：内核类
